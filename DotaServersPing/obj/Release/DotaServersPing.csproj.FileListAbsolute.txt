@@ -1,0 +1,15 @@
+D:\APP\DotaServersPing\DotaServersPing\bin\Release\DotaServersPing.exe.config
+D:\APP\DotaServersPing\DotaServersPing\bin\Release\DotaServersPing.exe
+D:\APP\DotaServersPing\DotaServersPing\bin\Release\DotaServersPing.pdb
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\MainWindow.g.cs
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\App.g.cs
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\DotaServersPing_MarkupCompile.cache
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\DotaServersPing_MarkupCompile.lref
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\MainWindow.baml
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\DotaServersPing.g.resources
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\DotaServersPing.Properties.Resources.resources
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\DotaServersPing.csproj.GenerateResource.cache
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\DotaServersPing.csproj.CoreCompileInputs.cache
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\DotaServersPing.exe
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\DotaServersPing.pdb
+D:\APP\DotaServersPing\DotaServersPing\obj\Release\DotaServersPing.csprojAssemblyReference.cache

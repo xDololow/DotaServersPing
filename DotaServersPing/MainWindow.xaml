@@ -1,0 +1,14 @@
+﻿<Window x:Class="DotaServersPing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DotaServersPing"
+        mc:Ignorable="d"
+        Title="Dota Servers Ping" Height="441" Width="318" ResizeMode="NoResize">
+    <Grid>
+        <Button Content="Ping" Margin="20,365,20,14.2" Click="Button_Click"/>
+        <TextBox Name="TextBox" Margin="20,10,20,66.2" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" IsReadOnly="True"/>
+
+    </Grid>
+</Window>

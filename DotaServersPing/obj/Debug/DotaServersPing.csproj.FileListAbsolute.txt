@@ -1,0 +1,14 @@
+D:\APP\DotaServersPing\DotaServersPing\bin\Debug\DotaServersPing.exe.config
+D:\APP\DotaServersPing\DotaServersPing\bin\Debug\DotaServersPing.exe
+D:\APP\DotaServersPing\DotaServersPing\bin\Debug\DotaServersPing.pdb
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\MainWindow.g.cs
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\App.g.cs
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\DotaServersPing_MarkupCompile.cache
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\DotaServersPing_MarkupCompile.lref
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\MainWindow.baml
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\DotaServersPing.g.resources
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\DotaServersPing.Properties.Resources.resources
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\DotaServersPing.csproj.GenerateResource.cache
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\DotaServersPing.csproj.CoreCompileInputs.cache
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\DotaServersPing.exe
+D:\APP\DotaServersPing\DotaServersPing\obj\Debug\DotaServersPing.pdb
