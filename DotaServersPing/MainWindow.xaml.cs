@@ -45,7 +45,7 @@ namespace DotaServersPing
         }
 
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private async void Button_Click(object sender, RoutedEventArgs e)
         {
             Ping pingSender = new Ping();
             PingOptions options = new PingOptions();
@@ -63,7 +63,7 @@ namespace DotaServersPing
             {
                 try
                 {
-                    PingReply reply = pingSender.Send(stringarr[i], timeout, buffer, options);
+                    PingReply reply = await pingSender.SendPingAsync(stringarr[i], timeout, buffer, options);
                     if (reply.Status == IPStatus.Success)
                     {
                         TextBox.AppendText("Server: " + stringarr2[i] + "\n");
@@ -83,7 +83,7 @@ namespace DotaServersPing
                     TextBox.AppendText("Error: " + ex.Message.ToString() + "\n");
 
                 }
-                TextBox.AppendText("-----------------------\n");
+                TextBox.AppendText("---------Done----------\n");
             }
         }
     }
